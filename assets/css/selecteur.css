@@ -1,1 +1,31 @@
-.master{}
+
+.master div{
+  width: 45%;
+padding: 1.5%;
+float: left;
+ margin: 0.5%;
+  border-width:3%;
+    border-style: solid;
+    border-color:#848484;
+    background-color: #86B286;
+    margin-top: 2%;
+    position: relative;
+}
+
+.master h3{
+  color: white;
+}
+
+
+.master p{
+  margin: 1%;
+  font-size: 14px;;
+}
+
+
+.master img{
+float: left;
+position: relative;
+width: 49%;
+margin-top: 3%;
+}
