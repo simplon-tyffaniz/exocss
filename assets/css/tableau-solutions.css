@@ -1,1 +1,4 @@
-
+.tableau_contact li:nth-child(2),.tableau_contact li:nth-child(4),.tableau_contact li:nth-child(6),.tableau_contact li:nth-child(8)
+,.tableau_contact li:nth-child(10),.tableau_contact li:nth-child(12),.tableau_contact li:nth-child(14){
+background:#848484 ;
+}
